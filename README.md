@@ -1,2 +1,5 @@
-# Favorite
-This repository is about my favorite basketball team
+# Lakers
+
+## 1. 
+## 2. 
+## 3. 
